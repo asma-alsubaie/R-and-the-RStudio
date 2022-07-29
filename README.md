@@ -36,3 +36,13 @@
 
 #3. Create conditional statements for movies that may be PG-13 and children are not allowed to watch
 
+# 10-sided dice:
+
+#Create a 10-sided dice.
+
+#Create a function to roll the dice 6 times and calculate the sum of those 6 rolls.
+
+#create 20-sided dice.
+
+#Create another function to calculate how many dice rolled more than 6 (for the 10-sided) or 16 (for the 20-sided).
+
