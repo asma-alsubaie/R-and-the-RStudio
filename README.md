@@ -1,4 +1,4 @@
-# R-and-the-RStudio
+# R and the RStudio
 # Shuffle_the_deck :
 #Create two functions with the following capabilities:
   
