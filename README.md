@@ -46,3 +46,5 @@
 
 #Create another function to calculate how many dice rolled more than 6 (for the 10-sided) or 16 (for the 20-sided).
 
+# Project 1 
+#4 plots showing different insights
